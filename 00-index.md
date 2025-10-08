@@ -1,13 +1,13 @@
 
-**title**: `Nmap — Scan básico e flags úteis`
+**title**: `Só o conhecimento liberta`
 
 **date**: `2025-10-07`
 
-**tags**: `[rede, nmap, ferramenta, comandos, nivel-iniciante]`
+**tags**: `[Arquitetura de computadores]`
 
 **difficulty**: `Iniciante`
 
-**status**: `Feito` # Rascunho / Em Progresso / Feito
+**status**: `Feito`
 
 
 # Resumo
