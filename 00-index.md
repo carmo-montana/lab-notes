@@ -20,3 +20,11 @@ Construção de Rede, criar uma rede de contatos e relacionamentos que proporcio
 # Referências
 - <a href="https://defcon.org/html/links/dtangent.html">Dark Tangent</a>
 
+#
+
+<p align="center">
+  <img src="./src/cheshire.png" alt="Cyber Cheshire" width="500"/>
+</p>
+
+<h3 align="center">💾 O que é memória num mundo onde tudo se apaga e se recria? 🌀</h3>
+<p align="center">Um eco da era cibernética, onde dados flutuam e o tempo é apenas um loop.</p>
