@@ -2,7 +2,7 @@
 
 **date**: `2025-10-29`
 
-**tags**: [`Aspectos básicos do Linux`]
+**tags**: [`Introdução ao Linux`]
 
 **difficulty**: `Avançado`
 
